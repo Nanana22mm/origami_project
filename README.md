@@ -21,7 +21,7 @@
 5. 2, 3, 4 を繰り返して折り紙を折り進める．
 
 ## 実行した時の様子
-![unity_project](https://github.com/Nanana22mm/myportfolio/assets/126635893/6b717ff7-c506-49b2-9de2-56b97d5a612f)
+![unity_project](https://github.com/Nanana22mm/origami_project/assets/126635893/d440c6ea-625d-4569-a058-74472ef95b8e)
 1. 折り紙をカメラに提示する(写真左)
 2. 提示した折り紙に被さるように，AR が表示される（写真左から二番目）
 3. キーボードを押すと，画面が写真左から三番目，四番目の順に遷移する．
